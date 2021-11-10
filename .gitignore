@@ -1,4 +1,5 @@
 *.ini
+*.private
 node_modules/
 node-red-dir/
 build/
